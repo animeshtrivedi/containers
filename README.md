@@ -1,3 +1,10 @@
+# Documentation
+  * https://docs.docker.com
+  * WebApps : https://github.com/docker/labs/blob/master/beginner/chapters/webapps.md 
+  * Java : https://github.com/docker/labs/tree/master/developer-tools/java/
+  * https://docs.docker.com/get-started/part2/
+  * https://docs.docker.com/samples/#tutorial-labs
+
 ## Installation steps: 
 https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce
 ```bash
@@ -75,3 +82,5 @@ https://docs.docker.com/engine/examples/running_ssh_service/
   * Spark/HDFS: https://medium.com/@ivanermilov/scalable-spark-hdfs-setup-using-docker-2fd0ffa1d6bf
 
 ## Network infrastrucutre and How to setup outside communication 
+
+https://docs.docker.com/network/
