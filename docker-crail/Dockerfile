@@ -11,7 +11,9 @@ RUN \
   rsync \
   vim \
   openjdk-8-jdk \
-  net-tools
+  net-tools iputils-ping
+
+#net-tools for ifconfig, and iputils-ping for ping 
 
 # Add crail stuff 
 WORKDIR /opt/crail
