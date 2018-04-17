@@ -84,3 +84,7 @@ https://docs.docker.com/engine/examples/running_ssh_service/
 ## Network infrastrucutre and How to setup outside communication 
 
 https://docs.docker.com/network/
+
+## Container resources 
+https://docs.docker.com/config/containers/resource_constraints/
+
